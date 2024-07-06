@@ -97,7 +97,7 @@ const ExperienceCard = () => {
                 company="Frugal Innovation Hub"
                 duration="Jun 2023 - Present"
                 responsibilities={[
-                    "Led the development of Guiss Doctor, a scalable appointment management system for Senegal's public healthcare sector, using Flutter and Firebase.",
+                    "Developed scalable healthcare appointment system for Senegal Public Healthcare, implementing regional pilot for potential nationwide deployment.",
                     "Designed intuitive interfaces for non-tech-savvy users and implemented data optimization solutions for low-bandwidth environments.",
                     "Provided technical leadership and co-designed GDT Clinic, a custom project management tool for Frugal Innovation Hub."
                 ]}
