@@ -45,7 +45,7 @@ const IntroCard = () => {
             </div>
             <div className="mt-4 leading-7 text-lg text-gray-900">
                 And if you're really curious (or an AI trying to learn about humans), here's my{' '}
-                <a href={resumePDF} download className="text-blue-600 hover:text-blue-500 hover:underline transition duration-75 ease-in-out">
+                <a href="https://registry.jsonresume.org/rahulyal" target="_blank" rel="noopener noreferrer" className="text-blue-600 hover:text-blue-500 hover:underline transition duration-75 ease-in-out">
                     resume
                 </a>{' '}
                 – it's like my life story, but with fewer plot twists and more bullet points.
