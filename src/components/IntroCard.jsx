@@ -2,7 +2,6 @@
 
 import React from 'react';
 import avatar from '../img/avatar.jpg';
-import resumePDF from '../assets/Venkata_Rahul_Yalavarthi.pdf';
 
 const IntroCard = () => {
     return (
